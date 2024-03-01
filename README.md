@@ -5,3 +5,4 @@ NIM  : 24060122130090
 
 # Materi
 - Pertemuan 1: Konsep Dasar Class
+- Pertemuan 2: Enkapsulasi dan Relasi Antar Objek

@@ -1,4 +1,4 @@
-package Pertemuan02;
+package Modul;
 
 public class MGaris {
     public static void main(String[] args) {
