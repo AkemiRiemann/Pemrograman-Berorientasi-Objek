@@ -1,4 +1,4 @@
-package Pertemuan02;
+package Modul;
 
 public class Titik {
     private double absis;

@@ -1,4 +1,4 @@
-package Pertemuan02;
+package Modul;
 
 public class MTitik {
     public static void main(String[] args) {

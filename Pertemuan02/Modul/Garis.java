@@ -1,4 +1,4 @@
-package Pertemuan02;
+package Modul;
 
 public class Garis {
     private Titik t1;
