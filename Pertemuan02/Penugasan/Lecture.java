@@ -31,7 +31,6 @@ public class Lecture {
     void teachCourse(Course course) {
         if (!this.coursesTaught.contains(course)){
             this.coursesTaught.add(course);
-            course.lecture = this;
         }
     }
 
