@@ -7,3 +7,5 @@ NIM  : 24060122130090
 - Pertemuan 1: Konsep Dasar Class
 - Pertemuan 2: Enkapsulasi dan Relasi Antar Objek
 - Pertemuan 3: Assertion dan Exception
+- Pertemuan 4: Package dan Inheritance
+- Pertemuan 5: Kelas Abstrak dan Interface
