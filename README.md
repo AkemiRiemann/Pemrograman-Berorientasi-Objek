@@ -10,3 +10,4 @@ NIM  : 24060122130090
 - Pertemuan 4: Package dan Inheritance
 - Pertemuan 5: Kelas Abstrak dan Interface
 - Pertemuan 7: Polimorfisme
+- Pertemuan 8: Collection dan Generic
