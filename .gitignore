@@ -1,2 +1,10 @@
 *.class
 *.jar
+/Pertemuan10/Modul/GUIProject1/nbproject/private/
+/Pertemuan10/Modul/GUIProject1/build/
+/Pertemuan10/Modul/GUIProject2/nbproject/private/
+/Pertemuan10/Modul/GUIProject2/build/
+/Pertemuan10/Modul/GUIProject3/nbproject/private/
+/Pertemuan10/Modul/GUIProject3/build/
+/Pertemuan10/Modul/GUIProject4/nbproject/private/
+/Pertemuan10/Modul/GUIProject4/build/

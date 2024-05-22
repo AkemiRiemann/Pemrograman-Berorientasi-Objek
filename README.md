@@ -12,3 +12,4 @@ NIM  : 24060122130090
 - Pertemuan 7: Polimorfisme
 - Pertemuan 8: Collection dan Generic
 - Pertemuan 9: Persistent Object
+- Pertemuan 10: Graphical User Interface
