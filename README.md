@@ -13,3 +13,4 @@ NIM  : 24060122130090
 - Pertemuan 8: Collection dan Generic
 - Pertemuan 9: Persistent Object
 - Pertemuan 10: Graphical User Interface
+- Pertemuan 11: Anonymus Class dan Function
