@@ -14,3 +14,4 @@ NIM  : 24060122130090
 - Pertemuan 9: Persistent Object
 - Pertemuan 10: Graphical User Interface
 - Pertemuan 11: Anonymus Class dan Function
+- Pertemuan 12: Object Oriented Design
